@@ -24,3 +24,17 @@ h3 {
 	text-transform: none;
 	letter-spacing: 0.01em;
 }
+
+button {
+	color: rgba(0, 0, 0, 0.5);
+	font-weight: bold;
+	font-size: 1rem;
+	padding: 0.5rem;
+	border: rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+	color: rgb(255, 255, 255, 0.5);
+	background-color: grey;
+	transition: all 0.25s;
+}
