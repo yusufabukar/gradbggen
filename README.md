@@ -1,9 +1,9 @@
 # Gradient Background Generator
 
-* Generates a left-to-right gradient based on the colour options selected and displays the CSS code snippet
-* Random gradient on page load, and input buttons are set to the respective colours
-* Random button chooses 2 colours for the gradient, and the input selector colours update respectively
+* Generates a left-to-right gradient based on the colour options selected.
+* Displays the corresponding CSS selector of the gradient.
 
-# Bugs
-
-* Input selector colours don't update when you choose a colour manually, then click the random button
+## Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
